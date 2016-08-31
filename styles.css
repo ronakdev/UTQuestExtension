@@ -1,18 +1,9 @@
-body {
-  background: url('https://media.giphy.com/media/3o7WTDJQVuYwhhuLhC/giphy.gif') !important;
+
+.form-control{
+    width: 100px  !important;
+    font-family: 'Lato', sans-serif !important;
 }
 
-#masthead,
-#primary {
-  -webkit-filter: invert(100%);
-  filter: invert(100%);
-  background-color: #fff;
-  padding: 20px !important;
-}
-#masthead {
-  background: none;
-}
-#masthead img, #primary img {
-  -webkit-filter: invert(100%);
-  filter: invert(100%);
+.col-md-2 {
+  display: none !important;
 }
